@@ -1,4 +1,3 @@
-# TriPy-GUIs
 
 ![RookeeAlgos Banner](https://user-images.githubusercontent.com/64858610/127370984-15797770-701f-49e9-96b1-d2c42dada6be.png)
 
