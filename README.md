@@ -1,5 +1,8 @@
 # TriPy-GUIs
 
+![RookeeAlgos Banner](https://user-images.githubusercontent.com/64858610/127370984-15797770-701f-49e9-96b1-d2c42dada6be.png)
+
+
 An all in one repository for all your fun💃, interactive🖥️ and creative🖌️ GUIs. 
 
 No matter what framework, language or package you use, if you are creative and you got a crazy🤯 GUI idea💡, then let me welcome🙏🏼 you to this repo.
